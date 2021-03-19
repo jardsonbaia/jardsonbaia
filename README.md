@@ -1,6 +1,6 @@
 ### Olá! 😀 <br/>
 <hr/>
 🌏 Redes <br/>
-💻 Python, Shell Script & JavaScript <br/>
+💻 Python & JavaScript <br/>
 🚩 HTML & CSS <br/>
-📚 e mais!
+📚 Hobbies: Shell Script, Web Scraping, Pentest!
