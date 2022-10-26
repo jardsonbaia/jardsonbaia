@@ -1,6 +1,6 @@
 ### Olá! 😀 <br/>
 <hr/>
-🌏 Redes <br/>
-💻 Python, Scripts & JavaScript <br/>
-🚩 HTML & CSS <br/>
-📚 Hobbies: Web Scraping & Pentest!
+🌏 Estudante de Redes <br/>
+💻 Experiência com HTML & CSS <br/>
+🚩 Melhorando em JavaScript <br/>
+📚 Familiaridade com: Python, Shell Script e Linux!
